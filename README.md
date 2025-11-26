@@ -6,6 +6,14 @@ A Python library for the Qieyun (Tshet-uinh) phonological system.
 
 This library was ported from the JavaScript library [TshetUinh.js](https://github.com/nk2028/tshet-uinh-js). See the original repository for more information.
 
+## Installation
+
+Install the package from PyPI using the following command:
+
+``` shell
+pip install tshet-uinh
+```
+
 ## License
 
 The project is released under the [MIT License](LICENSE).
