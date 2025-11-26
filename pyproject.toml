@@ -1,5 +1,5 @@
 [project]
-name = "tshet-uinh-py"
+name = "tshet-uinh"
 version = "0.1.0"
 description = "A Python library for the Qieyun phonological system"
 readme = "README.md"
