@@ -15,4 +15,4 @@ env/
 .uv-cache/
 uv.lock
 
-/prepare/*.py
+/prepare
