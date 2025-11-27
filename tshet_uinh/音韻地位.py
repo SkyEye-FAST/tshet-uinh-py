@@ -61,7 +61,7 @@ class 音韻地位:
     """Encapsulates a single 《切韻》音韻地位.
 
     Use this type whenever code needs to reason about the six canonical attributes
-    （母、呼、等、類、韻、聲） alongside optional邊緣地位 allowances.
+    （母、呼、等、類、韻、聲） alongside optional 邊緣地位 allowances.
     """
 
     __slots__ = ("母", "呼", "等", "類", "韻", "聲")
